@@ -9,9 +9,12 @@ Context for all examples:
 
 *A student has submitted program_1.py. The volume() function is correct, but the litres_to_gallons() conversion uses the wrong divisor. The correct value is 4.546 litres per UK gallon.* 
 
+&nbsp; 
 
 ## Feedback styles 
 Three feedback styles control the tone and framing of the AI response. The teacher selects a style before triggering feedback generation. 
+
+&nbsp; 
 
 ### Concise — direct and brief, minimal explanation: 
 *Your volume() function is correct. The issue is in litres_to_gallons() — check the conversion factor you are dividing by (should be 4.546).* 
@@ -26,8 +29,12 @@ Three feedback styles control the tone and framing of the AI response. The teach
 
 ***Next step:** Update the divisor on line 5 and re-run — the test panel will confirm whether the output is now correct.* 
 
+&nbsp; 
+
 ## Feedback lengths 
 Three length settings control how much detail the AI includes. Length is selected alongside style and is independent of it. 
+
+&nbsp; 
 
 **Shorter — one to two sentences:** 
 
@@ -45,9 +52,12 @@ Three length settings control how much detail the AI includes. Length is selecte
  
 *Once you've made the correction, re-run the program. The test panel will show you whether the expected output now matches. This kind of lookup — finding the right conversion factor — is a normal part of real programming work.* 
 
+&nbsp; 
 
 ## Feedback Formats
 Three formats define the structural shape of the feedback. Format is selected independently of style and length — any combination is valid. 
+
+&nbsp; 
 
 **Standard — prose feedback:** 
 
@@ -61,7 +71,9 @@ Three formats define the structural shape of the feedback. Format is selected in
 
 🌟 *One to improve: Your gallons conversion uses the wrong divisor. One UK gallon is 4.546 litres — update that value in litres_to_gallons().*  
 
-Defaults: Style = Supportive, Length = Medium, Format = Standard. 
+&nbsp; 
+
+**Defaults:** Style = Supportive, Length = Medium, Format = Standard. 
 
 
 

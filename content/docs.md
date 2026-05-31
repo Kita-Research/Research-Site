@@ -114,7 +114,8 @@ draft: false
 <div class="col-lg-6 spacer-small"> 
 <h2 class="h3">AI information and safety</h3> 
 <ul class="list-group">
-<li class="list-group-item">Coming soon...</li> 
+<li class="list-group-item"><a href="/aisettings">AI Feedback Examples in Kita</a></li> 
+<li class="list-group-item">More coming soon...</li> 
 </ul>
 </div> 
 <div class="col-lg-6"> 
