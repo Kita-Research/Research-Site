@@ -90,16 +90,28 @@ draft: false
 
 <div class="row justify-content-left mt-lg-12">
 <h2 class="h2" id="bank" style="background-color: #D4D2D5; padding: 2%; border-radius: 8px;">Document Bank</h2> 
-<p>Last updated: 14 May 2026</p>
+<p>Last updated: 3 June 2026 - Final ethics forms added</p>
 <div class="row justify-content-left mt-lg-12 spacer-header"> 
 <div class="col-lg-6"> 
 <h2 class="h3">Participant Information</h3> 
 <ul class="list-group spacer-small">
-<li class="list-group-item"><a href="/documents/PIS Kita evaluation - teachers DRAFT.pdf" target="_blank">Teachers and School Leaders</a> (PDF: 184 KB)</li> 
-<li class="list-group-item"><a href="/documents/Consent Kita-teachers leaders DRAFT.pdf" target="_blank">Teachers and School Leaders: Consent Form</a> <br /> (PDF: 131 KB)</li> 
-<li class="list-group-item"><a href="/documents/PIS Kita evaluation - parents DRAFT.pdf" target="_blank">Parents and Students</a>  (PDF: 184 KB)</li> 
-<li class="list-group-item"><a href="/documents/Consent Kita-parents DRAFT.pdf" target="_blank">Parents: Consent Form</a>  (PDF: 131 KB)</li> 
-<li class="list-group-item"><a href="/documents/Consent Kita-students DRAFT.pdf" target="_blank">Students: Consent Form</a>  (PDF: 131 KB)</li>
+<li class="list-group-item"><strong>Teachers and School Leaders</strong> <br /><a href="/documents/PIS Kita evaluation - teachers.pdf" target="_blank">PDF: 137 KB</a> |  
+<a href="/documents/PIS Kita evaluation - teachers.docx" target="_blank">Word: 64 KB</a> </li> 
+<li class="list-group-item"><strong>Teachers and School Leaders: Consent Form</strong><br /> <a href="/documents/Consent Kita-teachers leaders.pdf" target="_blank">PDF: 82 KB</a> |
+<a href="/documents/Consent Kita-teachers leaders.docx" target="_blank">Word: 47 KB</a>
+</li> 
+<li class="list-group-item"><strong>Parents</strong> <br/><a href="/documents/PIS Kita evaluation - parents.pdf" target="_blank">PDF: 144 KB</a> |  
+<a href="/documents/PIS Kita evaluation - parents.docx" target="_blank">Word: 61 KB</a>
+</li> 
+<li class="list-group-item"><strong>Parents: Consent Form</strong> <br /><a href="/documents/Consent Kita-parents.pdf" target="_blank">PDF: 82 KB</a> | 
+<a href="/documents/Consent Kita-parents.docx" target="_blank">Word: 47 KB</a>  
+</li> 
+<li class="list-group-item"><strong>Students</strong> <br/><a href="/documents/PIS Kita evaluation-students.pdf" target="_blank">PDF: 123 KB</a> |  
+<a href="/documents/PIS Kita evaluation-students.docx" target="_blank">Word: 54 KB</a>
+</li> 
+<li class="list-group-item"><strong>Students: Consent Form</strong> <br /><a href="/documents/Consent Kita-students DRAFT.pdf" target="_blank">PDF: 76 KB</a> | 
+<a href="/documents/Consent Kita-students DRAFT.docx" target="_blank">Word: 47 KB</a>
+</li>
 </ul>
 </div> 
 <div class="col-lg-6"> 
