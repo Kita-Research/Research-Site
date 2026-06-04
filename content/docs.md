@@ -90,7 +90,7 @@ draft: false
 
 <div class="row justify-content-left mt-lg-12">
 <h2 class="h2" id="bank" style="background-color: #D4D2D5; padding: 2%; border-radius: 8px;">Document Bank</h2> 
-<p>Last updated: 3 June 2026 - Final ethics forms added</p>
+<p>Last updated: 4 June 2026 - New simplified parents overview added.</p>
 <div class="row justify-content-left mt-lg-12 spacer-header"> 
 <div class="col-lg-6"> 
 <h2 class="h3">Participant Information</h3> 
@@ -100,16 +100,19 @@ draft: false
 <li class="list-group-item"><strong>Teachers and School Leaders: Consent Form</strong><br /> <a href="/documents/Consent Kita-teachers leaders.pdf" target="_blank">PDF: 82 KB</a> |
 <a href="/documents/Consent Kita-teachers leaders.docx" target="_blank">Word: 47 KB</a>
 </li> 
-<li class="list-group-item"><strong>Parents</strong> <br/><a href="/documents/PIS Kita evaluation - parents.pdf" target="_blank">PDF: 144 KB</a> |  
+<li class="list-group-item"><strong>Parents Overview <br /><i>for schools participating in the main evaluation and not the Case Studies</i></strong> <br/><a href="/documents/PIS Kita evaluation outline - parents.pdf" target="_blank">PDF: 97 KB</a> |  
+<a href="/documents/PIS Kita evaluation outline - parents.docx" target="_blank">Word: 54 KB</a>
+</li> 
+<li class="list-group-item"><strong>Parents <br /><i>Case Study schools only</i></strong> <br/><a href="/documents/PIS Kita evaluation - parents.pdf" target="_blank">PDF: 144 KB</a> |  
 <a href="/documents/PIS Kita evaluation - parents.docx" target="_blank">Word: 61 KB</a>
 </li> 
-<li class="list-group-item"><strong>Parents: Consent Form</strong> <br /><a href="/documents/Consent Kita-parents.pdf" target="_blank">PDF: 82 KB</a> | 
+<li class="list-group-item"><strong>Parents: Consent Form <br /><i>Case Study schools only</i></strong> <br /><a href="/documents/Consent Kita-parents.pdf" target="_blank">PDF: 82 KB</a> | 
 <a href="/documents/Consent Kita-parents.docx" target="_blank">Word: 47 KB</a>  
 </li> 
-<li class="list-group-item"><strong>Students</strong> <br/><a href="/documents/PIS Kita evaluation-students.pdf" target="_blank">PDF: 123 KB</a> |  
+<li class="list-group-item"><strong>Students <br /><i>Case Study schools only</i></strong> <br/><a href="/documents/PIS Kita evaluation-students.pdf" target="_blank">PDF: 123 KB</a> |  
 <a href="/documents/PIS Kita evaluation-students.docx" target="_blank">Word: 54 KB</a>
 </li> 
-<li class="list-group-item"><strong>Students: Consent Form</strong> <br /><a href="/documents/Consent Kita-students.pdf" target="_blank">PDF: 76 KB</a> | 
+<li class="list-group-item"><strong>Students: Consent Form <br /><i>Case Study schools only</i></strong> <br /><a href="/documents/Consent Kita-students.pdf" target="_blank">PDF: 76 KB</a> | 
 <a href="/documents/Consent Kita-students.docx" target="_blank">Word: 47 KB</a>
 </li>
 </ul>
