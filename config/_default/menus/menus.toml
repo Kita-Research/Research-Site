@@ -10,7 +10,13 @@ url = "docs"
 weight = 50 
 
 [[main]]
+identifier = "timeline"
+name = "Timeline"
+url = "timeline"
+weight = 60 
+
+[[main]]
 identifier = "support"
 name = "Support"
 url = "support"
-weight = 60 
+weight = 70 
