@@ -3,7 +3,7 @@ title: "Create a assessed activity in Kita"
 draft: false
 --- 
 # Create a assessed activity in Kita
-Fiona MacNeill | 40 steps | 10 minutes<br>
+Fiona MacNeill | 36 steps | 10 minutes<br>
 15 June 2026<br>
 This tutorial explain how to create your assessed activity. This allows you to accept submissions for an activity and use the marking and assessment tools available in Kita. <br>
 #### 1. Select the course where you would like to create the assignment.<br>
