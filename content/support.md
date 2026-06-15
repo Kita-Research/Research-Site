@@ -16,8 +16,7 @@ draft: false
 <div class="col-lg-6"> 
 <h2 class="h3">Teaching & Assessment</h3> 
 <ul class="list-group spacer-small">
-<li class="list-group-item"><strong>Coming soon</strong> <br />
-Guides to be added...</li> 
+<li class="list-group-item"><strong>Create an assessed activity in Kita</strong><br /><a href="/guides/onboarding/assessedactivity">Online guide</a> | <a href="/documents/supportdocs/Create an assessed activity in Kita.pdf" target="_blank" rel="noreferrer">PDF (size: 2.7MB)</a></li>
 </ul>
 </div> 
 </div>
