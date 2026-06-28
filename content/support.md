@@ -17,7 +17,8 @@ draft: false
 <h2 class="h3">Teaching & Assessment</h3> 
 <ul class="list-group spacer-small">
 <li class="list-group-item"><strong>Create an assessed activity in Kita</strong><br /><a href="/guides/onboarding/assessedactivity">Online guide</a> | <a href="/documents/supportdocs/Create an assessed activity in Kita.pdf" target="_blank" rel="noreferrer">PDF (size: 2.7MB)</a></li> 
-<li class="list-group-item"><strong>Update the AI settings for a lesson</strong><br /><a href="/guides/onboarding/aisettings">Online guide</a> | <a href="/documents/supportdocs/Update the AI settings for a lesson.pdf" target="_blank" rel="noreferrer">PDF (size: 987KB)</a>
+<li class="list-group-item"><strong>Update the AI settings for a lesson</strong><br /><a href="/guides/onboarding/aisettings">Online guide</a> | <a href="/documents/supportdocs/Update the AI settings for a lesson.pdf" target="_blank" rel="noreferrer">PDF (size: 987KB)</a></li> 
+<li class="list-group-item"><strong>Unsubmit student work</strong> <br/>(return incorrectly submitted work)<br /><a href="/guides/onboarding/unsubmit">Online guide</a> | <a href="/documents/supportdocs/Unsubmit student work.pdf" target="_blank" rel="noreferrer">PDF (size: 578KB)</a></li>
 </ul>
 </div> 
 <div class="row justify-content-left mt-lg-12 spacer-header"> 

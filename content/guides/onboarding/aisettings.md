@@ -7,17 +7,17 @@ draft: false
 Fiona MacNeill | 9 steps | 1 minute<br>
 23 June 2026<br>
 #### 1. Click on "Courses"<br>
-<img src="/images/003aisettings/AISettingsStep001.webp" width="90%"><br>
+<img src="/images/003aisettings/AISettingsStep001.webp" width="90%" /><br>
 #### 2. Click on your course.<br>
-<img src="/images/003aisettings/AISettingsStep002.webp" width="90%"><br>
+<img src="/images/003aisettings/AISettingsStep002.webp" width="90%" /><br>
 #### 3. Click on the action menu on the top-right of the lesson. <br>
-<img src="/images/003aisettings/AISettingsStep003.webp" width="90%"><br>
+<img src="/images/003aisettings/AISettingsStep003.webp" width="90%" /><br>
 #### 4. Click on "Al Help settings"<br>
-<img src="/images/003aisettings/AISettingsStep004.webp" width="90%"><br>
+<img src="/images/003aisettings/AISettingsStep004.webp" width="90%" /><br>
 #### 5. Turn on the “AI Help” toggle.<br>
-<img src="/images/003aisettings/AISettingsStep005.webp" width="90%"><br>
+<img src="/images/003aisettings/AISettingsStep005.webp" width="90%" /><br>
 #### 6. Review the AI help settings and adjust - full details are in the next step.<br>
-<img src="/images/003aisettings/AISettingsStep006.webp" width="90%"><br>
+<img src="/images/003aisettings/AISettingsStep006.webp" width="90%" /><br>
 #### 7. Decide if there are any settings that you would like to turn off. 
 
 **Explain** <br>Explainer mode provides direct, accessible explanations of code. It is designed for moments when a student wants to understand what a specific line or section of code does, without needing to phrase a question in the AI chat. <br>
@@ -44,6 +44,6 @@ Fiona MacNeill | 9 steps | 1 minute<br>
 
 
 #### 8. Click on the dropdown to update the hint level. <br>
-<img src="/images/003aisettings/AISettingsStep008.webp" width="90%"><br>
+<img src="/images/003aisettings/AISettingsStep008.webp" width="90%" /><br>
 #### 9. Click on "Save"<br>
-<img src="/images/003aisettings/AISettingsStep009.webp" width="90%"><br>
+<img src="/images/003aisettings/AISettingsStep009.webp" width="90%" /><br>
