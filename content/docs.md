@@ -90,7 +90,7 @@ draft: false
 
 <div class="row justify-content-left mt-lg-12">
 <h2 class="h2" id="bank" style="background-color: #D4D2D5; padding: 2%; border-radius: 8px;">Document Bank</h2> 
-<p>Last updated: 10 June 2026 - DPIA document added.</p>
+<p>Last updated: 19 Aug 2026 - Newest policy links added.</p>
 <div class="row justify-content-left mt-lg-12 spacer-header"> 
 <div class="col-lg-6"> 
 <h2 class="h3">Participant Information</h3> 
@@ -122,14 +122,12 @@ draft: false
 <ul class="list-group">
 <li class="list-group-item"><a href="/documents/Kita Education_Terms and Conditions.pdf" target="_blank" rel="noreferrer">Terms and Conditions (Kita for Schools)</a> PDF: 127 KB</li> 
 <li class="list-group-item"><a href="/documents/Privacy Policy_Kita_v3 22.02.20.pdf" target="_blank" rel="noreferrer">Privacy Policy (Kita for Schools)</a> PDF: 164KB</li> 
-<li class="list-group-item"><a href="https://www.getkita.org/privacy-policy-open-kita" target="_blank" rel="noreferrer"> Privacy Policy (Open Kita)</a> - on main <a href="https://www.getkita.org/" target="blank" rel="noreferrer">Kita website</a></li> 
+<li class="list-group-item"><a href="https://docs.getkita.org/legal/privacy-policy" target="_blank" rel="noreferrer">Privacy Policy (Current)</a> Updated: 17th Aug 2026</li> 
+<li class="list-group-item"><a href="https://docs.getkita.org/legal/terms-of-use" target="_blank" rel="noreferrer">Terms of Use (Current)</a> Updated: 18th Aug 2026</li>
 </ul>  
 <h2 class="h3 spacer-header">DPIA and AI information</h3> 
 <ul class="list-group">
 <li class="list-group-item"><a href="/aisettings">AI Feedback Examples in Kita</a></li> 
 <li class="list-group-item"><a href="/documents/Kita_DPIA_V3_080626.pdf" target="_blank" rel="noreferrer">Data Protection Impact Assessment</a> (8/06/26) <br />PDF: 209 KB</li> 
 </ul>
-<h2 class="h3 spacer-header">Accessibility</h3> 
-<ul class="list-group">
-<li class="list-group-item">Coming soon...</li> 
 </div>
